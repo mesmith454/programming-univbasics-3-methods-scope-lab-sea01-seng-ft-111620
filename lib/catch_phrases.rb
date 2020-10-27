@@ -11,7 +11,7 @@ end
 
 def link
   advice = "It's Dangerous To Go Alone! Take This."
-  p advice
+  puts advice
 end
 
 def all_phrases(mario, toadstool, link)
