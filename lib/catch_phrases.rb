@@ -14,7 +14,7 @@ def link
   puts advice
 end
 
-def all_phrases(mario, toadstool, link)
+def all_phrases(mario = "It's-a me, Mario!", toadstool = 'Thank You Mario! But Our Princess Is In Another Castle!', link = "It's Dangerous To Go Alone! Take This.")
  mario
  toadstool
  link
