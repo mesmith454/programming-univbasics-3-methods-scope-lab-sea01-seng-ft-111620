@@ -15,7 +15,8 @@ def link
 end
 
 def all_phrases(mario, toadstool, link)
-  puts phrase
-  puts status
-  puts advice
+ mario
+ toadstool
+ link
+ 
 end
